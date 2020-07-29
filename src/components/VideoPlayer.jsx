@@ -14,4 +14,8 @@ VideoPlayer.propTypes = {
     videoUrl: PropTypes.string.isRequired
 }
 
+<<<<<<< HEAD
 export default VideoPlayer;
+=======
+export default VideoPlayer;
+>>>>>>> origin/feature/video-player-protected-route
